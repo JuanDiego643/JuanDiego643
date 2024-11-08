@@ -8,20 +8,20 @@
 
 Terminé mis estudios universitarios en Comunicación Audivisual en Junio de 2024. Durante este tiempo realice mis prácticas en [Estrategia de Salud y Bienestar](https://www.um.es/web/bienestar/inicio) dela universidad de Murcia.  
 Ahora me encuentro estudiando el grado superior **Desarrollo de aplicaciones multiplataforma** en el [CIFPD "La Conservera" de Ceutí](https://sites.google.com/view/fplaconservera/la-conservera?authuser=0).
-![La Conservera de Ceutí](https://rotulacionesmeseguer.es/wp-content/uploads/2014/12/ConserveraBody01.jpg)
+![La Conservera](https://github.com/JuanDiego643/JuanDiego643/blob/main/La%20conservera.jpg)
 
 ### Asignaturas de primer año en DAM:
 
-- 💿[Base de datos](https://ead.murciaeduca.es/course/view.php?id=11652&section=0#tabs-tree-start)
-- 📼[Digitalización Aplicada al Sistema Productivo](https://ead.murciaeduca.es/course/view.php?id=12050&section=0#tabs-tree-start)
-- 💾[Entornos de desarrollo](https://ead.murciaeduca.es/course/view.php?id=11653&section=0#tabs-tree-start)
-- 📱[Inglés Profesional](https://ead.murciaeduca.es/course/view.php?id=11501)
-- 📋[IPE](https://ead.murciaeduca.es/course/view.php?id=12024&section=0#tabs-tree-start)
-- 💻[Lenguajes de marcas y sistemas de gestión de información](https://ead.murciaeduca.es/course/view.php?id=11624&section=0#tabs-tree-start)
-- ⌨️[Programación](https://ead.murciaeduca.es/course/view.php?id=11755&section=0#tabs-tree-start)
-- 🖥️[Sistemas informáticos](https://ead.murciaeduca.es/course/view.php?id=11651&section=0#tabs-tree-start)
+- 💿 [Base de datos](https://ead.murciaeduca.es/course/view.php?id=11652&section=0#tabs-tree-start)
+- 📼 [Digitalización Aplicada al Sistema Productivo](https://ead.murciaeduca.es/course/view.php?id=12050&section=0#tabs-tree-start)
+- 💾 [Entornos de desarrollo](https://ead.murciaeduca.es/course/view.php?id=11653&section=0#tabs-tree-start)
+- 📱 [Inglés Profesional](https://ead.murciaeduca.es/course/view.php?id=11501)
+- 📋 [IPE](https://ead.murciaeduca.es/course/view.php?id=12024&section=0#tabs-tree-start)
+- 💻 [Lenguajes de marcas y sistemas de gestión de información](https://ead.murciaeduca.es/course/view.php?id=11624&section=0#tabs-tree-start)
+- ⌨️ [Programación](https://ead.murciaeduca.es/course/view.php?id=11755&section=0#tabs-tree-start)
+- 🖥️ [Sistemas informáticos](https://ead.murciaeduca.es/course/view.php?id=11651&section=0#tabs-tree-start)
 		
-## 🔧Herramientas y tecnologías
+## 🔧 Herramientas y tecnologías
 
 |Conocidas   | Aprendiendo  |
 |---|---|
@@ -32,12 +32,12 @@ Ahora me encuentro estudiando el grado superior **Desarrollo de aplicaciones mul
 |![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)   |	![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   |
 |![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)   |	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-31A.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)   |
 
-## 🚀Propósitos
+## 🚀 Propósitos
 - Aprender sobre el manejo de inteligencia artificial generativa
 - Estudiar y evolucionar en el diseño de paginas web
 - A largo plazo empreder formación en ciberseguridad
 
-## 💼Trabajos
+## 💼 Trabajos
 Esta sección ira destinada a trabajos destacables que realizare a lo largo del tiempo, dentro del grado superior o por cuenta propia. Al estar iniciandome en todo esto no tengo grandes trabajos, pero me gustaria destacar mi trabajo de fin de grado sobre la Inteligencia artifical y la desinformación en tiempos de esta.
 El objetivo principal de este proyecto es exponer y ampliar una visión más acertada sobre la inteligencia artificial, en las redes sociales, analizando sus capacidades, límites y retos éticos. Y explorar como esta nueva tecnología puede afectar a los fenómenos relacionados con la personalización de contenidos en las redes sociales. Esta investigación ha sido ilustrada con la creación de un cortometraje interactivo.
 
