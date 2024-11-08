@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Hola!soy Juan Diego</h1>
+<h1 align="center"> Bienvenidos a mi perfil de Github</h1>
 
 </div>
 
