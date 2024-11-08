@@ -41,7 +41,7 @@
 - A largo plazo empreder formación en ciberseguridad
 
 ## 💼 Trabajos
-Esta sección ira destinada a trabajos destacables que realizare a lo largo del tiempo, dentro del grado superior o por cuenta propia. Al estar iniciandome en todo esto no tengo grandes trabajos, pero me gustaria destacar mi trabajo de fin de grado sobre la Inteligencia artifical y la desinformación en tiempos de esta.
+Esta sección ira destinada a trabajos destacables que realizare , dentro del grado superior o por cuenta propia. Al estar iniciandome en todo esto no tengo grandes trabajos, pero me gustaria destacar mi trabajo de fin de grado sobre la Inteligencia artifical y la desinformación en tiempos de esta.
 El objetivo principal de este proyecto es exponer y ampliar una visión más acertada sobre la inteligencia artificial, en las redes sociales, analizando sus capacidades, límites y retos éticos. Y explorar como esta nueva tecnología puede afectar a los fenómenos relacionados con la personalización de contenidos en las redes sociales. Esta investigación ha sido ilustrada con la creación de un cortometraje interactivo.
 
 [![Proyecto interactivo](https://github.com/JuanDiego643/JuanDiego643/blob/main/TFG.png)](https://video.eko.com/v/Vv4lLN?autoplay=true)
