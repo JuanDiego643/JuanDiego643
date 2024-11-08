@@ -8,7 +8,8 @@
 
 Terminé mis estudios universitarios en Comunicación Audivisual en Junio de 2024. Durante este tiempo realice mis prácticas en [Estrategia de Salud y Bienestar](https://www.um.es/web/bienestar/inicio) dela universidad de Murcia.  
 Ahora me encuentro estudiando el grado superior **Desarrollo de aplicaciones multiplataforma** en el [CIFPD "La Conservera" de Ceutí](https://sites.google.com/view/fplaconservera/la-conservera?authuser=0).
-![La Conservera](https://github.com/JuanDiego643/JuanDiego643/blob/main/La%20conservera.jpg)
+
+[![La Conservera](https://github.com/JuanDiego643/JuanDiego643/blob/main/La%20conservera.jpg)](https://sites.google.com/view/fplaconservera/la-conservera?authuser=0)
 
 ### Asignaturas de primer año en DAM:
 
